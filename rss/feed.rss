@@ -4,19 +4,19 @@
         <title>Example Feed</title>
         <description>Insert</description>
         <link>http://example.org</link>
-        <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+        <pubDate>Tue, 22 Nov 2022 12:22:00 GMT</pubDate>
         <managingEditor>a22julioaa@iessanclemente.net</managingEditor>
         <item>
             <title>VSCode</title>
             <link>https://a22julioaa.github.io/projectRSSide/vscode.html</link>
-            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <pubDate>Tue, 22 Nov 2022 12:22:00 GMT</pubDate>
             <description>Tricks on VSCode</description>
         </item>
 
         <item>
             <title>Eclipse</title>
             <link>https://a22julioaa.github.io/projectRSSide/eclipse.html</link>
-            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <pubDate>Tue, 22 Nov 2022 12:22:00 GMT</pubDate>
             <description>Tricks on Eclipse</description>
         </item>
 
